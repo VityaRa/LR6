@@ -4,28 +4,28 @@
 
 1. Аккаунт на гитхабе уже существовал
 2. Сделан Форк исходного репозитория
-![Форк исходного репозитория](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Форк исходного репозитория.png)
+![Форк исходного репозитория](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Форк_исходного_репозитория.png)
 3. Клонирован исходный репозиторий
-![Клонирование репо](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Клонирование репо.png)
+![Клонирование репо](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Клонирование_репо.png)
 4. Добавлен файл через Гитхаб и подтянуты изменения
-![Создание файла](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Создание файла.png)
-![Подтягивание изменений](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Подтягивание изменений.png)
+![Создание файла](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Создание_файла.png)
+![Подтягивание изменений](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Подтягивание_изменений.png)
 5. Получена история изменений для каждой ветки
-![Получить информацию по веткам](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Получить информацию по веткам.png)
+![Получить информацию по веткам](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Получить_информацию_по_веткам.png)
 6. Выполнен мердж в ветку master, разрешив конфликт.
 ![Мердж](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Мердж.png)
-![Резолв конфликта](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Резолв конфликта.png)
+![Резолв конфликта](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Резолв_конфликта.png)
 7. Удалена побочная ветка локально и удаленно
-![Удаление ветки](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Удаление ветки.png)
+![Удаление ветки](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Удаление_ветки.png)
 8. Создан новый файл и заполнен, при этом создавая коммиты
-![Добавление нового файла](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Добавление нового файла.png)
-![Изменение нового файла](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Изменение нового файла.png)
+![Добавление нового файла](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Добавление_нового_файла.png)
+![Изменение нового файла](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Изменение_нового_файла.png)
 9. Сделан hard-reset коммита.
-![Получение хэша и резет коммитов](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Получение хэша и резет коммитов.png)
+![Получение хэша и резет коммитов](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Получение_хэша_и_резет_коммитов.png)
 10. Создана ветка для отчета
-![Создание новой ветки для отчета](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Создание новой ветки для отчета.png)
+![Создание новой ветки для отчета](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Создание_новой_ветки_для_отчета.png)
 11. Получена история изменений в сокращенном виде
-![Получение истории в сокращенном виде](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Получение истории в сокращенном виде.png)
+![Получение истории в сокращенном виде](https://github.com/VityaRa/LR6/raw/report_lobanov/screens/Получение_истории_в_сокращенном_виде.png)
 12. Получена история введенных команд
 
     500 git clone git@github.com:VityaRa/LR6.git
